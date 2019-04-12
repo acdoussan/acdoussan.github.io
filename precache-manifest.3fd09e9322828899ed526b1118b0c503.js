@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/cpu_lg.8438af5d.jpg"
   },
   {
-    "revision": "d16b3b4936ff3ae6ba15ca05142a3443",
+    "revision": "dfe23966022ccccc70fdd473a8790fe4",
     "url": "/index.html"
   }
 ];
